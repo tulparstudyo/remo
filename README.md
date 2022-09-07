@@ -3,7 +3,7 @@
 ``
 composer require tulparstudyo/remo
 ``
-<hr>
+<br>
 [![reLlV7kYNtI](https://img.youtube.com/vi/reLlV7kYNtI/0.jpg)](https://www.youtube.com/watch?v=reLlV7kYNtI)
 ## Basics
 This solution is a laravel based script. It was created to organize the calendar of office workers. It has four basics:
