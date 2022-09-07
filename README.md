@@ -28,6 +28,14 @@ Information about real estate registered in the system
 ``
 Records where Users, Customers and Properties are organized together
 ``
+- Calculation of distance<br>
+``
+/maps.googleapis.com/maps/api/distancematrix API is used to calculate distance
+``
+- Address detection from postcode<br>
+``
+Using api.postcodes.io for address detection from postcode
+``
 ## Pages Preview
 ![Organization](public/assets/img/org.png)
 ![Profile](public/assets/img/profile.png)
