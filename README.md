@@ -2,7 +2,7 @@
 
 this solution is a laravel based script. It was created to organize the calendar of office workers. It has four basics:
 
-- Users:
+- Users<br>
 ``
 They are the people who use the system. It consists of two groups.
 ``
