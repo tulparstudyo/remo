@@ -34,7 +34,7 @@ Records where Users, Customers and Properties are organized together
 ``
 - Address detection from postcode<br>
 ``
-Using api.postcodes.io for address detection from postcode
+Using api.postcodes.io API for address detection from postcode
 ``
 ## Pages Preview
 ![Organization](public/assets/img/org.png)
