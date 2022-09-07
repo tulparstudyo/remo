@@ -1,0 +1,28 @@
+.invisible{
+    display: none;
+}
+.m-auto{
+    margin: auto;
+}
+.dataTables_wrapper .dataTables_length select {
+    min-width: 60px;
+}
+.cursor-pointer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+.select2-container--default .select2-selection--single {
+    --tw-border-opacity: 1;
+    border-color: rgb(209 213 219 / var(--tw-border-opacity));
+    /* padding: 10px 0px; */
+    height: 40px;
+}
+iframe{
+    max-width: 100%!important;
+}
+.datepicker-container.datepicker-inline{
+    float: left;
+}
