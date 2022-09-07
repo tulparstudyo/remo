@@ -29,6 +29,7 @@ Information about real estate registered in the system
 Records where Users, Customers and Properties are organized together
 ``
 ## Pages Preview
+![Organization](public/assets/img/org.png)
 ![Profile](public/assets/img/profile.png)
 ![customers](public/assets/img/customers.png)
 ![customers](public/assets/img/customer-edit.png)
