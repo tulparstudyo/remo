@@ -8,7 +8,7 @@ composer require tulparstudyo/remo
 using setup.php file
 ``
 <br>
-[![reLlV7kYNtI](https://img.youtube.com/vi/reLlV7kYNtI/0.jpg)](https://www.youtube.com/watch?v=reLlV7kYNtI)
+[![reLlV7kYNtI](https://img.youtube.com/vi/I0U0pxn1wWQ/0.jpg)](https://www.youtube.com/watch?v=I0U0pxn1wWQ)
 ## Basics
 This solution is a laravel based script. It was created to organize the calendar of office workers. It has four basics:
 
@@ -28,7 +28,16 @@ Information about real estate registered in the system
 ``
 Records where Users, Customers and Properties are organized together
 ``
+- Calculation of distance<br>
+``
+/maps.googleapis.com/maps/api/distancematrix API is used to calculate distance
+``
+- Address detection from postcode<br>
+``
+Using api.postcodes.io API for address detection from postcode
+``
 ## Pages Preview
+![Organization](public/assets/img/org.png)
 ![Profile](public/assets/img/profile.png)
 ![customers](public/assets/img/customers.png)
 ![customers](public/assets/img/customer-edit.png)
