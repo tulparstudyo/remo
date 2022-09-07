@@ -8,7 +8,7 @@ composer require tulparstudyo/remo
 using setup.php file
 ``
 <br>
-[![reLlV7kYNtI](https://img.youtube.com/vi/reLlV7kYNtI/0.jpg)](https://www.youtube.com/watch?v=reLlV7kYNtI)
+[![reLlV7kYNtI](https://img.youtube.com/vi/I0U0pxn1wWQ/0.jpg)](https://www.youtube.com/watch?v=I0U0pxn1wWQ)
 ## Basics
 This solution is a laravel based script. It was created to organize the calendar of office workers. It has four basics:
 
