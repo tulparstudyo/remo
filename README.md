@@ -24,9 +24,9 @@ Records where Users, Customers and Properties are organized together
 ``
 ## Pages Preview
 ![Profile](public/assets/img/profile.png)
-![Profile](public/assets/img/customer.png)
-![Profile](public/assets/img/customer-edit.png)
-![Profile](public/assets/img/estate.png)
-![Profile](public/assets/img/estate-edit.png)
-![Profile](public/assets/img/meeting.png)
-![Profile](public/assets/img/meeting-edit.png)
+![customers](public/assets/img/customers.png)
+![customers](public/assets/img/customer-edit.png)
+![estates](public/assets/img/estates.png)
+![estates](public/assets/img/estate-edit.png)
+![meetings](public/assets/img/meetings.png)
+![meetings](public/assets/img/meeting-edit.png)
