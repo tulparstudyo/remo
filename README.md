@@ -24,3 +24,4 @@ Records where Users, Customers and Properties are organized together
 ``
 ## Pages Preview
 <img src="public_html/public/assets/img/profile.png">
+![Alt text](/public_html/public/assets/img/profile.png?raw=true "Optional Title")
