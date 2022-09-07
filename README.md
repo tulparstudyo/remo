@@ -23,5 +23,4 @@ Information about real estate registered in the system
 Records where Users, Customers and Properties are organized together
 ``
 ## Pages Preview
-<img src="public_html/public/assets/img/profile.png">
-![Alt text](/public_html/public/assets/img/profile.png?raw=true "Optional Title")
+![Profile](public/assets/img/profile.png)
