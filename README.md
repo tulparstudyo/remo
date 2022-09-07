@@ -6,6 +6,15 @@ this solution is a laravel based script. It was created to organize the calendar
 ``
 They are the people who use the system. It consists of two groups.
 ``
-- Customers
-- Estates
-- Meetings
+- Customers<br>
+``
+Customers who want to see real estate
+``
+- Estates<br>
+``
+Information about real estate registered in the system
+``
+- Meetings<br>
+``
+Records where Users, Customers and Properties are organized together
+``
