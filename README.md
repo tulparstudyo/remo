@@ -3,6 +3,10 @@
 ``
 composer require tulparstudyo/remo
 ``
+<br>Or<br>
+``
+using setup.php file
+``
 <br>
 [![reLlV7kYNtI](https://img.youtube.com/vi/reLlV7kYNtI/0.jpg)](https://www.youtube.com/watch?v=reLlV7kYNtI)
 ## Basics
